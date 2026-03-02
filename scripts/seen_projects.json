@@ -1,6 +1,21 @@
 {
   "reported": [
     {
+      "name": "prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "reported_at": "2026-03-03T06:05:00"
+    },
+    {
+      "name": "Kimi-K2.5",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+      "reported_at": "2026-03-03T06:05:00"
+    },
+    {
+      "name": "RUMAD",
+      "url": "https://arxiv.org/abs/2602.23864",
+      "reported_at": "2026-03-03T06:05:00"
+    },
+    {
       "name": "openclaw-master-skills",
       "url": "https://github.com/LeoYeAI/openclaw-master-skills",
       "reported_at": "2026-03-03T00:35:00"
