@@ -19,6 +19,31 @@
       "name": "CUDA Agent",
       "url": "http://arxiv.org/abs/2602.24286v1",
       "reported_at": "2026-03-02T11:47:00"
+    },
+    {
+      "name": "Semantic-skill-space",
+      "url": "https://github.com/i3T4AN/Semantic-skill-space",
+      "reported_at": "2026-03-02T14:31:00"
+    },
+    {
+      "name": "Agent_SoulMate",
+      "url": "https://github.com/ByteTitan-star/Agent_SoulMate",
+      "reported_at": "2026-03-02T14:31:00"
+    },
+    {
+      "name": "Qwen3.5-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+      "reported_at": "2026-03-02T14:31:00"
+    },
+    {
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "reported_at": "2026-03-02T15:31:00"
+    },
+    {
+      "name": "deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "reported_at": "2026-03-02T15:31:00"
     }
   ]
 }
