@@ -44,6 +44,51 @@
       "name": "deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
       "reported_at": "2026-03-02T15:31:00"
+    },
+    {
+      "name": "ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "reported_at": "2026-03-02T16:01:00"
+    },
+    {
+      "name": "OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "reported_at": "2026-03-02T16:35:00"
+    },
+    {
+      "name": "memU",
+      "url": "https://github.com/NevaMind-AI/memU",
+      "reported_at": "2026-03-02T16:35:00"
+    },
+    {
+      "name": "airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "reported_at": "2026-03-02T17:36:00"
+    },
+    {
+      "name": "wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "reported_at": "2026-03-02T17:36:00"
+    },
+    {
+      "name": "MobileAgent",
+      "url": "https://github.com/X-PLUG/MobileAgent",
+      "reported_at": "2026-03-02T17:36:00"
+    },
+    {
+      "name": "RF-Agent",
+      "url": "http://arxiv.org/abs/2602.23876",
+      "reported_at": "2026-03-02T18:06:00"
+    },
+    {
+      "name": "LocoOperator-4B",
+      "url": "https://huggingface.co/LocoreMind/LocoOperator-4B",
+      "reported_at": "2026-03-02T18:06:00"
+    },
+    {
+      "name": "URDFlyS2U",
+      "url": "https://github.com/Democratizing-Dexterous/URDFlyS2U",
+      "reported_at": "2026-03-02T20:06:00"
     }
   ]
 }
