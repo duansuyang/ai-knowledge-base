@@ -14,5 +14,7 @@
 
 ## 最近更新
 
-<!-- TRENDING_PLACEHOLDER -->
+- 2026-03-03: [DeepSeek-Claw](./_posts/2026-03-03-0705-deepseek-claw.md) - 高性能DeepSeek AI交互工具包
+- 2026-03-03: [OpenClaw Guardian](./_posts/2026-03-03-0705-openclaw-guardian.md) - Gateway自动守护者
+- 2026-03-03: [pi-boomerang](./_posts/2026-03-03-0705-pi-boomerang.md) - Token高效自治任务执行器
 
