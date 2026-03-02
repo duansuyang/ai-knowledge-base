@@ -89,6 +89,31 @@
       "name": "URDFlyS2U",
       "url": "https://github.com/Democratizing-Dexterous/URDFlyS2U",
       "reported_at": "2026-03-02T20:06:00"
+    },
+    {
+      "name": "PaperBanana",
+      "url": "https://arxiv.org/abs/2601.23265",
+      "reported_at": "2026-03-02T21:14:00"
+    },
+    {
+      "name": "SpatialScore",
+      "url": "https://arxiv.org/abs/2602.24233",
+      "reported_at": "2026-03-02T21:14:00"
+    },
+    {
+      "name": "Alice",
+      "url": "https://github.com/mirage-video/Alice",
+      "reported_at": "2026-03-02T22:20:00"
+    },
+    {
+      "name": "ClawShield",
+      "url": "https://github.com/SleuthCo/clawshield-public",
+      "reported_at": "2026-03-02T22:20:00"
+    },
+    {
+      "name": "jina-grep-cli",
+      "url": "https://github.com/jina-ai/jina-grep-cli",
+      "reported_at": "2026-03-02T22:20:00"
     }
   ]
 }
