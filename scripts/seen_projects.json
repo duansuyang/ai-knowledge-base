@@ -246,9 +246,44 @@
       "reported_at": "2026-03-03T13:11:00"
     },
     {
-      "name": "T3RL",
-      "url": "https://arxiv.org/abs/2603.02203",
-      "reported_at": "2026-03-03T13:11:00"
+      "name": "GAM-RAG",
+      "url": "https://arxiv.org/abs/2603.01783",
+      "reported_at": "2026-03-03T13:41:00"
+    },
+    {
+      "name": "RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "reported_at": "2026-03-03T13:41:00"
+    },
+    {
+      "name": "Step-3.5-Flash-Base",
+      "url": "https://huggingface.co/stepfun-ai/Step-3.5-Flash-Base",
+      "reported_at": "2026-03-03T14:15:00"
+    },
+    {
+      "name": "CoVe-Agent",
+      "url": "https://arxiv.org/abs/2603.01940",
+      "reported_at": "2026-03-03T14:15:00"
+    },
+    {
+      "name": "ghost",
+      "url": "https://github.com/adamveld12/ghost",
+      "reported_at": "2026-03-03T14:44:00"
+    },
+    {
+      "name": "OpenRAG-Skill",
+      "url": "https://github.com/Picrew/OpenRAG-Skill",
+      "reported_at": "2026-03-03T14:44:00"
+    },
+    {
+      "name": "ACoT-VLA",
+      "url": "https://github.com/AgibotTech/ACoT-VLA",
+      "reported_at": "2026-03-03T15:14:00"
+    },
+    {
+      "name": "TumorChain",
+      "url": "https://github.com/ZJU4HealthCare/TumorChain",
+      "reported_at": "2026-03-03T15:14:00"
     }
   ]
 }
