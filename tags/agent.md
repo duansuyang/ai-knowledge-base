@@ -1,5 +1,6 @@
 # agent
 
+- [recall](./../_posts/2026-03-03-2135-recall.md) - AI智能体记忆技能
 - [OpenClaw Guardian](./../_posts/2026-03-03-0705-openclaw-guardian.md) - OpenClaw Gateway的守护者
 - [pi-boomerang](./../_posts/2026-03-03-0705-pi-boomerang.md) - Token高效自治任务执行器
 - [DeepSeek-Claw](./../_posts/2026-03-03-0705-deepseek-claw.md) - DeepSeek AI交互工具包
