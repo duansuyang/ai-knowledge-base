@@ -234,6 +234,11 @@
       "name": "radar",
       "url": "https://github.com/asteroidai/radar",
       "reported_at": "2026-03-03T11:11:00"
+    },
+    {
+      "name": "openclaw-security-practice-guide",
+      "url": "https://github.com/slowmist/openclaw-security-practice-guide",
+      "reported_at": "2026-03-03T12:15:00"
     }
   ]
 }
