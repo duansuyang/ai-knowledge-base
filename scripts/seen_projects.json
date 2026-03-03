@@ -294,6 +294,16 @@
       "name": "llm-security-scanner",
       "url": "https://github.com/jinzy666/llm-security-scanner",
       "reported_at": "2026-03-03T16:45:00"
+    },
+    {
+      "name": "curgit",
+      "url": "https://github.com/KuangjuX/curgit",
+      "reported_at": "2026-03-03T18:11:00"
+    },
+    {
+      "name": "binance-skills-hub",
+      "url": "https://github.com/binance/binance-skills-hub",
+      "reported_at": "2026-03-03T18:11:00"
     }
   ]
 }
