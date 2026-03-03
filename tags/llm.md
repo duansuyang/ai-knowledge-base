@@ -1,5 +1,6 @@
 # llm
 
+- [Recursive Models for Long-Horizon Reasoning](./../_posts/2026-03-04-0342-recursive-models.md) - 突破上下文限制的递归推理模型，让LLM通过递归调用自身解决长程推理任务
 - [Wave-Attractor-Tree](./../_posts/2026-03-03-1041-wave-attractor-tree.md) - 层级二叉树约简架构，实现 O(n) 复杂度的序列建模
 - [Tiny-Critic RAG](./../_posts/2026-03-03-1041-tiny-critic-rag.md) - 使用参数高效的小语言模型进行 Agentic RAG 回退
 - [DARE-bench](./../_posts/2026-03-03-0805-dare-bench.md) - LLM数据科学任务评测基准

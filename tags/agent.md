@@ -1,5 +1,6 @@
 # agent
 
+- [Recursive Models for Long-Horizon Reasoning](./../_posts/2026-03-04-0342-recursive-models.md) - 突破上下文限制的递归推理模型，适用于Agent系统的长程任务处理
 - [recall](./../_posts/2026-03-03-2135-recall.md) - AI智能体记忆技能
 - [OpenClaw Guardian](./../_posts/2026-03-03-0705-openclaw-guardian.md) - OpenClaw Gateway的守护者
 - [pi-boomerang](./../_posts/2026-03-03-0705-pi-boomerang.md) - Token高效自治任务执行器
