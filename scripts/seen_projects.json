@@ -209,6 +209,31 @@
       "name": "Artificial Agency Program",
       "url": "https://arxiv.org/abs/2602.24100",
       "reported_at": "2026-03-03T09:41:00"
+    },
+    {
+      "name": "Tiny-Critic RAG",
+      "url": "https://arxiv.org/abs/2603.00846",
+      "reported_at": "2026-03-03T10:41:00"
+    },
+    {
+      "name": "Constitutional Black-Box Monitoring",
+      "url": "https://arxiv.org/abs/2603.00829",
+      "reported_at": "2026-03-03T10:41:00"
+    },
+    {
+      "name": "Wave-Attractor-Tree",
+      "url": "https://arxiv.org/abs/2603.00812",
+      "reported_at": "2026-03-03T10:41:00"
+    },
+    {
+      "name": "aso-skills",
+      "url": "https://github.com/Eronred/aso-skills",
+      "reported_at": "2026-03-03T11:11:00"
+    },
+    {
+      "name": "radar",
+      "url": "https://github.com/asteroidai/radar",
+      "reported_at": "2026-03-03T11:11:00"
     }
   ]
 }
