@@ -239,6 +239,16 @@
       "name": "openclaw-security-practice-guide",
       "url": "https://github.com/slowmist/openclaw-security-practice-guide",
       "reported_at": "2026-03-03T12:15:00"
+    },
+    {
+      "name": "Viora",
+      "url": "https://github.com/zouyonghe/Viora",
+      "reported_at": "2026-03-03T13:11:00"
+    },
+    {
+      "name": "T3RL",
+      "url": "https://arxiv.org/abs/2603.02203",
+      "reported_at": "2026-03-03T13:11:00"
     }
   ]
 }
