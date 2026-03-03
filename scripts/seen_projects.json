@@ -204,6 +204,11 @@
       "name": "DARE-bench",
       "url": "http://arxiv.org/abs/2602.24288v1",
       "reported_at": "2026-03-03T08:05:00"
+    },
+    {
+      "name": "Artificial Agency Program",
+      "url": "https://arxiv.org/abs/2602.24100",
+      "reported_at": "2026-03-03T09:41:00"
     }
   ]
 }
