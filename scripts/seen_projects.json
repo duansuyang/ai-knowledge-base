@@ -284,6 +284,16 @@
       "name": "TumorChain",
       "url": "https://github.com/ZJU4HealthCare/TumorChain",
       "reported_at": "2026-03-03T15:14:00"
+    },
+    {
+      "name": "RealGRPO",
+      "url": "https://github.com/yangzhou24/RealGRPO",
+      "reported_at": "2026-03-03T16:45:00"
+    },
+    {
+      "name": "llm-security-scanner",
+      "url": "https://github.com/jinzy666/llm-security-scanner",
+      "reported_at": "2026-03-03T16:45:00"
     }
   ]
 }
