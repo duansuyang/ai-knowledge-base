@@ -419,6 +419,41 @@
       "name": "dLLM",
       "url": "https://github.com/ZHZisZZ/dllm",
       "reported_at": "2026-03-04T21:25:00"
+    },
+    {
+      "name": "shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "reported_at": "2026-03-04T21:50:00"
+    },
+    {
+      "name": "ReMe",
+      "url": "https://github.com/agentscope-ai/ReMe",
+      "reported_at": "2026-03-04T21:55:00"
+    },
+    {
+      "name": "OmniLottie",
+      "url": "https://arxiv.org/abs/2603.02138",
+      "reported_at": "2026-03-05T00:11:00"
+    },
+    {
+      "name": "Track4World",
+      "url": "https://arxiv.org/abs/2603.02573",
+      "reported_at": "2026-03-05T00:11:00"
+    },
+    {
+      "name": "WorldStereo",
+      "url": "https://arxiv.org/abs/2603.02049",
+      "reported_at": "2026-03-05T00:11:00"
+    },
+    {
+      "name": "Perplexica",
+      "url": "https://github.com/ItzCrazyKns/Perplexica",
+      "reported_at": "2026-03-05T01:11:00"
+    },
+    {
+      "name": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "reported_at": "2026-03-05T01:11:00"
     }
   ]
 }
