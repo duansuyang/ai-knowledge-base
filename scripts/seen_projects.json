@@ -339,6 +339,36 @@
       "name": "Recursive Models for Long-Horizon Reasoning",
       "url": "https://arxiv.org/abs/2603.02112",
       "reported_at": "2026-03-04T03:42:00"
+    },
+    {
+      "name": "skill-generator",
+      "url": "https://github.com/marketingjuliancongdanh79-pixel/skill-generator",
+      "reported_at": "2026-03-04T04:42:00"
+    },
+    {
+      "name": "labor-law-mcp",
+      "url": "https://github.com/kentaroajisaka/labor-law-mcp",
+      "reported_at": "2026-03-04T04:42:00"
+    },
+    {
+      "name": "LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "reported_at": "2026-03-04T06:42:00"
+    },
+    {
+      "name": "AgentScope",
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "reported_at": "2026-03-04T06:42:00"
+    },
+    {
+      "name": "Learning from Synthetic Data Improves Multi-hop Reasoning",
+      "url": "https://arxiv.org/abs/2603.02091",
+      "reported_at": "2026-03-04T08:12:00"
+    },
+    {
+      "name": "KDFlow",
+      "url": "https://arxiv.org/abs/2603.01875",
+      "reported_at": "2026-03-04T08:12:00"
     }
   ]
 }
