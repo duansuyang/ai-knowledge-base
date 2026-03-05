@@ -319,6 +319,16 @@
       "name": "Retrieval-Augmented Robots",
       "url": "https://arxiv.org/abs/2603.02688",
       "reported_at": "2026-03-06T00:58:00"
+    },
+    {
+      "name": "ZipMap",
+      "url": "https://arxiv.org/abs/2603.04385",
+      "reported_at": "2026-03-06T01:25:00"
+    },
+    {
+      "name": "τ-Knowledge",
+      "url": "https://arxiv.org/abs/2603.04370",
+      "reported_at": "2026-03-06T01:25:00"
     }
   ]
 }

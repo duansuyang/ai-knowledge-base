@@ -1,23 +1,19 @@
-# AI 前沿技术追踪 - 2026年3月6日
+## 🔬 AI 前沿技术追踪 - 2026-03-06
 
-## 今日热门项目
+### 1️⃣ ZipMap: 线性时间3D重建
 
-### 🔬 Memex(RL): 索引体验记忆
-解决LLM智能体在长程任务中的上下文窗口瓶颈。通过外部索引记忆机制实现无损记忆压缩，使智能体可处理远超上下文限制的长程任务。
+首个实现线性时间、双向3D重建的stateful前馈模型。单H100 GPU 10秒内重建700+帧，比SOTA快20倍以上。
 
-🏷️ 标签: #Agent #LLM #Memory #LongContext
-📊 亮点: 无损压缩 | 理论保证 | MemexRL优化
-🔗 https://arxiv.org/abs/2603.04257
-
----
-
-### 🔬 Retrieval-Augmented Robots (RAR)
-赋予机器人从外部视觉文档中检索操作手册的能力。通过"检索-推理-动作"循环实现零样本具身智能，解决机器人缺乏具体操作知识的根本问题。
-
-🏷️ 标签: #Robotics #RAG #EmbodiedAI #Agent
-📊 亮点: 零样本能力 | 2D→3D跨模态 | 通用机器人
-🔗 https://arxiv.org/abs/2603.02688
+🏷️ 标签: #3DReconstruction #ComputerVision #EfficientInference
+📊 亮点: 20x+速度提升 | 线性复杂度 | 实时查询
+🔗 https://arxiv.org/abs/2603.04385
 
 ---
 
-*追踪领域: Agent/IAG | LLM | 多模态 | RL | 具身智能 | RAG | AI安全*
+### 2️⃣ τ-Knowledge: 智能体评估新基准
+
+评估对话智能体在非结构化知识库上的长程交互。前沿模型在金融客服场景仅25.5%通过率，揭示RAG智能体的重大差距。
+
+🏷️ 标签: #AgentEvaluation #RAG #Benchmark
+📊 亮点: 新评估范式 | 700+知识文档 | 揭示智能体短板
+🔗 https://arxiv.org/abs/2603.04370
