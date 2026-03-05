@@ -2,6 +2,15 @@
 
 ## 今日热门项目
 
+### 🔬 RPG Maker Agent
+给AI一篇文章，自动生成一款可以玩的RPG Maker MZ游戏。只需输入文章，AI会分析内容并生成游戏场景、事件和对话，支持分步生成、批注修改和一键导出。
+
+🏷️ 标签: #Agent #AIGame #CreativeAI #LLM
+📊 亮点: 文章转游戏 | 分步生成+批注 | 降低创作门槛
+🔗 https://github.com/karminski/rpg-maker-agent
+
+---
+
 ### 🔬 RoboCasa365 (ICLR 2026)
 大规模机器人仿真基准，包含365个任务、2500个厨房环境、2200+小时演示数据，为通用机器人研究提供系统化评估标准。
 

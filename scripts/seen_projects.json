@@ -284,6 +284,21 @@
       "name": "RoboCasa365",
       "url": "https://arxiv.org/abs/2603.04356",
       "reported_at": "2026-03-05T15:41:00"
+    },
+    {
+      "name": "OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "reported_at": "2026-03-05T16:35:00"
+    },
+    {
+      "name": "airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "reported_at": "2026-03-05T16:35:00"
+    },
+    {
+      "name": "rpg-maker-agent",
+      "url": "https://github.com/karminski/rpg-maker-agent",
+      "reported_at": "2026-03-05T19:15:00"
     }
   ]
 }
