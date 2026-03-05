@@ -329,6 +329,21 @@
       "name": "τ-Knowledge",
       "url": "https://arxiv.org/abs/2603.04370",
       "reported_at": "2026-03-06T01:25:00"
+    },
+    {
+      "name": "AgentIR",
+      "url": "https://arxiv.org/abs/2603.04384",
+      "reported_at": "2026-03-06T04:41:00"
+    },
+    {
+      "name": "DMAST",
+      "url": "https://arxiv.org/abs/2603.04364",
+      "reported_at": "2026-03-06T04:41:00"
+    },
+    {
+      "name": "CAT - Quantization",
+      "url": "https://arxiv.org/abs/2603.04359",
+      "reported_at": "2026-03-06T04:41:00"
     }
   ]
 }

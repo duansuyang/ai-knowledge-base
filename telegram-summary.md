@@ -1,19 +1,24 @@
-## 🔬 AI 前沿技术追踪 - 2026-03-06
+🔬 AI前沿技术追踪 | 2026-03-06
 
-### 1️⃣ ZipMap: 线性时间3D重建
+📄 本期精选 (3篇)
 
-首个实现线性时间、双向3D重建的stateful前馈模型。单H100 GPU 10秒内重建700+帧，比SOTA快20倍以上。
+1️⃣ AgentIR - 推理感知检索
+深度研究智能体在搜索前会生成推理轨迹，揭示丰富意图信息。AgentIR将推理轨迹与查询联合嵌入，在BrowseComp-Plus上达到68%准确率(vs 传统方法50%)
+🏷️ #Agent #RAG
+📊 推理感知 | 4B模型 | +18%精度
+🔗 https://arxiv.org/abs/2603.04384
 
-🏷️ 标签: #3DReconstruction #ComputerVision #EfficientInference
-📊 亮点: 20x+速度提升 | 线性复杂度 | 实时查询
-🔗 https://arxiv.org/abs/2603.04385
+2️⃣ DMAST - 多模态智能体安全
+双模态Web智能体的视觉+文本组合攻击比纯文本更危险。提出三阶段对抗训练框架，任务完成效率提升2倍
+🏷️ #Agent #VLM #AISafety
+📊 跨模态防御 | GRPO | 2x效率
+🔗 https://arxiv.org/abs/2603.04364
+
+3️⃣ CAT - LLM量化新视角
+从信号-to-量化噪声比(SQNR)分析量化误差，发现对齐度是关键因素。提出Concentration-Alignment Transforms，4-bit量化效果超越先前方法
+🏷️ #LLM #Quantization
+📊 4-bit | 轻量变换 | 多模型通用
+🔗 https://arxiv.org/abs/2603.04359
 
 ---
-
-### 2️⃣ τ-Knowledge: 智能体评估新基准
-
-评估对话智能体在非结构化知识库上的长程交互。前沿模型在金融客服场景仅25.5%通过率，揭示RAG智能体的重大差距。
-
-🏷️ 标签: #AgentEvaluation #RAG #Benchmark
-📊 亮点: 新评估范式 | 700+知识文档 | 揭示智能体短板
-🔗 https://arxiv.org/abs/2603.04370
+📊 完整报告: github.com/duansuyang/ai-knowledge-base
