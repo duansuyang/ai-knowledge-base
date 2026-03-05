@@ -1,231 +1,6 @@
 {
   "reported": [
     {
-      "name": "prompt-eng-interactive-tutorial",
-      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-      "reported_at": "2026-03-03T06:05:00"
-    },
-    {
-      "name": "Kimi-K2.5",
-      "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
-      "reported_at": "2026-03-03T06:05:00"
-    },
-    {
-      "name": "RUMAD",
-      "url": "https://arxiv.org/abs/2602.23864",
-      "reported_at": "2026-03-03T06:05:00"
-    },
-    {
-      "name": "openclaw-master-skills",
-      "url": "https://github.com/LeoYeAI/openclaw-master-skills",
-      "reported_at": "2026-03-03T00:35:00"
-    },
-    {
-      "name": "remoat",
-      "url": "https://github.com/optimistengineer/remoat",
-      "reported_at": "2026-03-03T00:35:00"
-    },
-    {
-      "name": "appwrite-arena",
-      "url": "https://github.com/appwrite/arena",
-      "reported_at": "2026-03-03T00:35:00"
-    },
-    {
-      "name": "UltimateSearchSkill",
-      "url": "https://github.com/ckckck/UltimateSearchSkill",
-      "reported_at": "2026-03-02T09:36:00"
-    },
-    {
-      "name": "soul.py",
-      "url": "https://github.com/menonpg/soul.py",
-      "reported_at": "2026-03-02T09:36:00"
-    },
-    {
-      "name": "Webfurl",
-      "url": "https://github.com/qfeuilla/Webfurl",
-      "reported_at": "2026-03-02T09:36:00"
-    },
-    {
-      "name": "CUDA Agent",
-      "url": "http://arxiv.org/abs/2602.24286v1",
-      "reported_at": "2026-03-02T11:47:00"
-    },
-    {
-      "name": "Semantic-skill-space",
-      "url": "https://github.com/i3T4AN/Semantic-skill-space",
-      "reported_at": "2026-03-02T14:31:00"
-    },
-    {
-      "name": "Agent_SoulMate",
-      "url": "https://github.com/ByteTitan-star/Agent_SoulMate",
-      "reported_at": "2026-03-02T14:31:00"
-    },
-    {
-      "name": "Qwen3.5-35B-A3B",
-      "url": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
-      "reported_at": "2026-03-02T14:31:00"
-    },
-    {
-      "name": "superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "reported_at": "2026-03-02T15:31:00"
-    },
-    {
-      "name": "deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "reported_at": "2026-03-02T15:31:00"
-    },
-    {
-      "name": "ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "reported_at": "2026-03-02T16:01:00"
-    },
-    {
-      "name": "OpenSandbox",
-      "url": "https://github.com/alibaba/OpenSandbox",
-      "reported_at": "2026-03-02T16:35:00"
-    },
-    {
-      "name": "memU",
-      "url": "https://github.com/NevaMind-AI/memU",
-      "reported_at": "2026-03-02T16:35:00"
-    },
-    {
-      "name": "airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "reported_at": "2026-03-02T17:36:00"
-    },
-    {
-      "name": "wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "reported_at": "2026-03-02T17:36:00"
-    },
-    {
-      "name": "MobileAgent",
-      "url": "https://github.com/X-PLUG/MobileAgent",
-      "reported_at": "2026-03-02T17:36:00"
-    },
-    {
-      "name": "RF-Agent",
-      "url": "http://arxiv.org/abs/2602.23876",
-      "reported_at": "2026-03-02T18:06:00"
-    },
-    {
-      "name": "LocoOperator-4B",
-      "url": "https://huggingface.co/LocoreMind/LocoOperator-4B",
-      "reported_at": "2026-03-02T18:06:00"
-    },
-    {
-      "name": "URDFlyS2U",
-      "url": "https://github.com/Democratizing-Dexterous/URDFlyS2U",
-      "reported_at": "2026-03-02T20:06:00"
-    },
-    {
-      "name": "PaperBanana",
-      "url": "https://arxiv.org/abs/2601.23265",
-      "reported_at": "2026-03-02T21:14:00"
-    },
-    {
-      "name": "SpatialScore",
-      "url": "https://arxiv.org/abs/2602.24233",
-      "reported_at": "2026-03-02T21:14:00"
-    },
-    {
-      "name": "Alice",
-      "url": "https://github.com/mirage-video/Alice",
-      "reported_at": "2026-03-02T22:20:00"
-    },
-    {
-      "name": "ClawShield",
-      "url": "https://github.com/SleuthCo/clawshield-public",
-      "reported_at": "2026-03-02T22:20:00"
-    },
-    {
-      "name": "jina-grep-cli",
-      "url": "https://github.com/jina-ai/jina-grep-cli",
-      "reported_at": "2026-03-02T22:20:00"
-    },
-    {
-      "name": "claude-scientific-skills",
-      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
-      "reported_at": "2026-03-03T02:35:00"
-    },
-    {
-      "name": "superset",
-      "url": "https://github.com/superset-sh/superset",
-      "reported_at": "2026-03-03T02:35:00"
-    },
-    {
-      "name": "LoRA-Pre",
-      "url": "https://arxiv.org/abs/2602.24283",
-      "reported_at": "2026-03-03T03:05:00"
-    },
-    {
-      "name": "dLLM",
-      "url": "https://arxiv.org/abs/2602.22661",
-      "reported_at": "2026-03-03T03:35:00"
-    },
-    {
-      "name": "GLM-5",
-      "url": "https://arxiv.org/abs/2602.15763",
-      "reported_at": "2026-03-03T03:35:00"
-    },
-    {
-      "name": "openpango-skills",
-      "url": "https://github.com/openpango/openpango-skills",
-      "reported_at": "2026-03-03T03:05:00"
-    },
-    {
-      "name": "DeepSeek-Claw",
-      "url": "https://github.com/TriangleMagistrate/DeepSeek-Claw",
-      "reported_at": "2026-03-03T07:05:00"
-    },
-    {
-      "name": "OpenClaw-Guardian",
-      "url": "https://github.com/LeoYeAI/openclaw-guardian",
-      "reported_at": "2026-03-03T07:05:00"
-    },
-    {
-      "name": "pi-boomerang",
-      "url": "https://github.com/nicobailon/pi-boomerang",
-      "reported_at": "2026-03-03T07:05:00"
-    },
-    {
-      "name": "pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "reported_at": "2026-03-03T07:35:00"
-    },
-    {
-      "name": "screen-commentator",
-      "url": "https://github.com/r1cA18/screen-commentator",
-      "reported_at": "2026-03-03T07:35:00"
-    },
-    {
-      "name": "DARE-bench",
-      "url": "http://arxiv.org/abs/2602.24288v1",
-      "reported_at": "2026-03-03T08:05:00"
-    },
-    {
-      "name": "Artificial Agency Program",
-      "url": "https://arxiv.org/abs/2602.24100",
-      "reported_at": "2026-03-03T09:41:00"
-    },
-    {
-      "name": "Tiny-Critic RAG",
-      "url": "https://arxiv.org/abs/2603.00846",
-      "reported_at": "2026-03-03T10:41:00"
-    },
-    {
-      "name": "Constitutional Black-Box Monitoring",
-      "url": "https://arxiv.org/abs/2603.00829",
-      "reported_at": "2026-03-03T10:41:00"
-    },
-    {
-      "name": "Wave-Attractor-Tree",
-      "url": "https://arxiv.org/abs/2603.00812",
-      "reported_at": "2026-03-03T10:41:00"
-    },
-    {
       "name": "aso-skills",
       "url": "https://github.com/Eronred/aso-skills",
       "reported_at": "2026-03-03T11:11:00"
@@ -454,6 +229,36 @@
       "name": "agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "reported_at": "2026-03-05T01:11:00"
+    },
+    {
+      "name": "Helios",
+      "url": "https://github.com/PKU-YuanGroup/Helios",
+      "reported_at": "2026-03-05T02:11:00"
+    },
+    {
+      "name": "RAPO",
+      "url": "https://arxiv.org/abs/2603.03078",
+      "reported_at": "2026-03-05T03:11:00"
+    },
+    {
+      "name": "VL-KGE",
+      "url": "https://arxiv.org/abs/2603.02435",
+      "reported_at": "2026-03-05T03:41:00"
+    },
+    {
+      "name": "Monitoring Emergent Reward Hacking",
+      "url": "https://arxiv.org/abs/2603.04069",
+      "reported_at": "2026-03-05T10:25:00"
+    },
+    {
+      "name": "How to Peel with a Knife",
+      "url": "https://arxiv.org/abs/2603.03280",
+      "reported_at": "2026-03-05T10:25:00"
+    },
+    {
+      "name": "Density-Guided Response Optimization",
+      "url": "https://arxiv.org/abs/2603.03242",
+      "reported_at": "2026-03-05T05:11:00"
     }
   ]
 }
