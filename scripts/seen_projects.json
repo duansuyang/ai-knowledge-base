@@ -299,6 +299,26 @@
       "name": "rpg-maker-agent",
       "url": "https://github.com/karminski/rpg-maker-agent",
       "reported_at": "2026-03-05T19:15:00"
+    },
+    {
+      "name": "agent-drift",
+      "url": "https://github.com/jhammant/agent-drift",
+      "reported_at": "2026-03-06T00:25:00"
+    },
+    {
+      "name": "CapGuard",
+      "url": "https://github.com/wilsonguenther-dev/CapGuard",
+      "reported_at": "2026-03-06T00:25:00"
+    },
+    {
+      "name": "Memex(RL)",
+      "url": "https://arxiv.org/abs/2603.04257",
+      "reported_at": "2026-03-06T00:58:00"
+    },
+    {
+      "name": "Retrieval-Augmented Robots",
+      "url": "https://arxiv.org/abs/2603.02688",
+      "reported_at": "2026-03-06T00:58:00"
     }
   ]
 }
