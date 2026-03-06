@@ -326,7 +326,7 @@
       "reported_at": "2026-03-06T01:25:00"
     },
     {
-      "name": "τ-Knowledge",
+      "name": "\u03c4-Knowledge",
       "url": "https://arxiv.org/abs/2603.04370",
       "reported_at": "2026-03-06T01:25:00"
     },
@@ -424,6 +424,31 @@
       "name": "codevira",
       "url": "https://github.com/sachinshelke/codevira",
       "reported_at": "2026-03-06T14:35:00"
+    },
+    {
+      "name": "KARL",
+      "url": "https://arxiv.org/abs/2603.05218",
+      "reported_at": "2026-03-06T16:10:00"
+    },
+    {
+      "name": "STRUCTUREDAGENT",
+      "url": "https://arxiv.org/abs/2603.05294",
+      "reported_at": "2026-03-06T16:15:00"
+    },
+    {
+      "name": "alphasearch",
+      "url": "https://github.com/CyberGhost007/alphasearch",
+      "reported_at": "2026-03-06T16:35:00"
+    },
+    {
+      "name": "bug-hunt",
+      "url": "https://github.com/danpeg/bug-hunt",
+      "reported_at": "2026-03-06T16:35:00"
+    },
+    {
+      "name": "lilbee",
+      "url": "https://github.com/tobocop2/lilbee",
+      "reported_at": "2026-03-06T16:35:00"
     }
   ]
 }
