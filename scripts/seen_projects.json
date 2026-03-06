@@ -379,6 +379,36 @@
       "name": "Agentics 2.0",
       "url": "https://arxiv.org/abs/2603.04241",
       "reported_at": "2026-03-06T07:36:00"
+    },
+    {
+      "name": "seomachine",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "reported_at": "2026-03-06T10:06:00"
+    },
+    {
+      "name": "Dual-Helix Governance for Agentic AI",
+      "url": "https://arxiv.org/abs/2603.04390",
+      "reported_at": "2026-03-06T10:06:00"
+    },
+    {
+      "name": "fractals",
+      "url": "https://github.com/TinyAGI/fractals",
+      "reported_at": "2026-03-06T12:18:00"
+    },
+    {
+      "name": "RoboPocket",
+      "url": "https://arxiv.org/abs/2603.05504",
+      "reported_at": "2026-03-06T12:18:00"
+    },
+    {
+      "name": "agent-experience",
+      "url": "https://github.com/ygwyg/agent-experience",
+      "reported_at": "2026-03-06T14:28:00"
+    },
+    {
+      "name": "openclaw-backup",
+      "url": "https://github.com/LeoYeAI/openclaw-backup",
+      "reported_at": "2026-03-06T14:28:00"
     }
   ]
 }
