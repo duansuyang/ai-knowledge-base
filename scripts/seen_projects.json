@@ -469,6 +469,16 @@
       "name": "MCE",
       "url": "https://github.com/DexopT/MCE",
       "reported_at": "2026-03-06T18:45:00"
+    },
+    {
+      "name": "Microsoft MCP",
+      "url": "https://github.com/microsoft/mcp",
+      "reported_at": "2026-03-06T19:41:00"
+    },
+    {
+      "name": "AgenticRAG-Survey",
+      "url": "https://github.com/asinghcsu/AgenticRAG-Survey",
+      "reported_at": "2026-03-06T19:41:00"
     }
   ]
 }
