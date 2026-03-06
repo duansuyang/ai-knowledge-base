@@ -344,6 +344,41 @@
       "name": "CAT - Quantization",
       "url": "https://arxiv.org/abs/2603.04359",
       "reported_at": "2026-03-06T04:41:00"
+    },
+    {
+      "name": "AReaL",
+      "url": "https://github.com/inclusionAI/AReaL",
+      "reported_at": "2026-03-06T05:08:00"
+    },
+    {
+      "name": "mcp-for-beginners",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "reported_at": "2026-03-06T05:08:00"
+    },
+    {
+      "name": "Flow Matching for TD Learning",
+      "url": "https://arxiv.org/abs/2603.04333",
+      "reported_at": "2026-03-06T07:06:00"
+    },
+    {
+      "name": "Optimal Transport Refusal Ablation",
+      "url": "https://arxiv.org/abs/2603.04355",
+      "reported_at": "2026-03-06T07:06:00"
+    },
+    {
+      "name": "Dual-Solver ICLR 2026",
+      "url": "https://arxiv.org/abs/2603.03973",
+      "reported_at": "2026-03-06T07:06:00"
+    },
+    {
+      "name": "Codebuff",
+      "url": "https://github.com/CodebuffAI/codebuff",
+      "reported_at": "2026-03-06T07:36:00"
+    },
+    {
+      "name": "Agentics 2.0",
+      "url": "https://arxiv.org/abs/2603.04241",
+      "reported_at": "2026-03-06T07:36:00"
     }
   ]
 }
